@@ -1,2 +1,2 @@
-# DIo-desafio-github
+# Dio-desafio-github
 desafio de projeto sobre Git/gitHub
